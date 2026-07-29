@@ -1,0 +1,32 @@
+{
+  "campaign_status": "design",
+  "day": -2,
+  "time_of_day": null,
+  "location": "Ordon Village",
+  "link": {
+    "form": "human",
+    "condition": "healthy",
+    "inventory": [],
+    "equipment": [],
+    "learned_skills": [],
+    "known_information": [],
+    "current_goals": ["Prepare for the planned journey to Hyrule in two days."],
+    "recent_actions": []
+  },
+  "world": {
+    "twilight_regions": [],
+    "light_spirits_restored": [],
+    "fused_shadows": [],
+    "mirror_shards": [],
+    "completed_dungeons": [],
+    "defeated_bosses": [],
+    "major_objects": {}
+  },
+  "canon": {
+    "current_event": "TP-001",
+    "completed_events": [],
+    "active_events": ["TP-001"],
+    "pending_events": [],
+    "divergences": []
+  }
+}
