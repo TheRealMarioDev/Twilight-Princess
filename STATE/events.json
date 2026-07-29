@@ -1,0 +1,4 @@
+{
+  "events": [],
+  "rule": "Append significant events; do not silently delete or rewrite established history. Each event should record when/where it occurred, participants, what happened, important dialogue, relationship effects, state changes, canon impact, and any divergence created."
+}
