@@ -1,8 +1,41 @@
 {
-  "current_phase": "Pre-Twilight",
-  "next_expected_event": "TP-002",
-  "events": {
-    "TP-001": "completed_before_campaign_start",
+  "campaign_status": "design",
+  "current_chapter": "Chapter 01 — Ordon Village: two days before departure",
+  "current_event_id": "TP-001",
+  "calendar": {
+    "day": -2,
+    "time_of_day": "unset",
+    "exact_time": null,
+    "location": "Ordon Village",
+    "weather": null
+  },
+  "link": {
+    "form": "human",
+    "condition": "healthy",
+    "inventory": [],
+    "equipped": [],
+    "learned_skills": [],
+    "known_information": [],
+    "current_goals": ["Prepare for the planned journey to Hyrule in two days."],
+    "immediate_concerns": [],
+    "important_memories": [],
+    "recent_significant_actions": []
+  },
+  "relationships": {},
+  "characters": {},
+  "world": {
+    "twilight_regions": [],
+    "light_spirits_restored": [],
+    "fused_shadows_acquired": [],
+    "mirror_shards_acquired": [],
+    "mirror_of_twilight": "unknown",
+    "completed_dungeons": [],
+    "defeated_bosses": [],
+    "major_routes_opened": [],
+    "major_objects": {}
+  },
+  "canon_events": {
+    "TP-001": "active",
     "TP-002": "pending",
     "TP-003": "pending",
     "TP-004": "pending",
@@ -23,7 +56,19 @@
     "TP-019": "pending",
     "TP-020": "pending",
     "TP-021": "pending",
-    "TP-022": "pending"
+    "TP-022": "pending",
+    "TP-023": "pending",
+    "TP-024": "pending",
+    "TP-025": "pending",
+    "TP-026": "pending",
+    "TP-027": "pending",
+    "TP-028": "pending",
+    "TP-029": "pending"
   },
-  "divergences": []
+  "mandatory_side_content": {
+    "ending_blow": "pending"
+  },
+  "quests": {},
+  "dialogue_memory": [],
+  "canon_deviations": []
 }
