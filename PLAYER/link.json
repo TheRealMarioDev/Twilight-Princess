@@ -1,0 +1,11 @@
+{
+  "name": "Link",
+  "role": "Ordon Village ranch hand",
+  "location": "Ordon Village",
+  "health": 100,
+  "inventory": [],
+  "known_information": [],
+  "active_objectives": [],
+  "personality_notes": [],
+  "important_decisions": []
+}
