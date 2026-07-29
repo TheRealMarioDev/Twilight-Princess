@@ -1,0 +1,4 @@
+{
+  "snapshots": [],
+  "rule": "Create a snapshot after major milestones when practical. A snapshot should identify the campaign state commit/event, chapter, location, and a short description. Do not overwrite historical snapshots."
+}
