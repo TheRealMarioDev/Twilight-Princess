@@ -1,0 +1,16 @@
+{
+  "Ilia": {
+    "relationship_to_link": "childhood_best_friend_and_love_interest",
+    "baseline": "They have grown up together and share a deep, established romantic bond. The campaign begins before the relationship has reached a final lifelong commitment, leaving room for affection, conflict, growth, reconciliation, and meaningful romantic progression.",
+    "ilia_feelings": "deeply affectionate and romantically attached to Link",
+    "link_internal_feelings": "player-controlled",
+    "formal_status": "not_married_or_formally_committed",
+    "shared_history": [
+      "Childhood friendship",
+      "Years of living in the same Ordon community",
+      "Established mutual familiarity with each other's habits and personalities",
+      "Established romantic attraction/relationship before campaign start"
+    ],
+    "important_rule": "Do not invent Link's private thoughts, declarations, or romantic commitments. The player establishes those through play. Ilia has her own feelings and agency."
+  }
+}
