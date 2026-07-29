@@ -1,0 +1,42 @@
+{
+  "Link_Ilia": {
+    "trust": null,
+    "affection": null,
+    "familiarity": null,
+    "status": "Childhood friends",
+    "important_events": [],
+    "important_dialogue": [],
+    "promises": [],
+    "unresolved_matters": []
+  },
+  "Link_Colin": {
+    "trust": null,
+    "affection": null,
+    "familiarity": null,
+    "status": "Childhood acquaintance",
+    "important_events": [],
+    "important_dialogue": [],
+    "promises": [],
+    "unresolved_matters": []
+  },
+  "Link_Rusl": {
+    "trust": null,
+    "affection": null,
+    "familiarity": null,
+    "status": "Ordon mentor/friend",
+    "important_events": [],
+    "important_dialogue": [],
+    "promises": [],
+    "unresolved_matters": []
+  },
+  "Link_Midna": {
+    "trust": null,
+    "affection": null,
+    "familiarity": null,
+    "status": "Not yet met",
+    "important_events": [],
+    "important_dialogue": [],
+    "promises": [],
+    "unresolved_matters": []
+  }
+}
