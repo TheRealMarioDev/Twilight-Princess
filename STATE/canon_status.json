@@ -1,0 +1,29 @@
+{
+  "current_phase": "Pre-Twilight",
+  "next_expected_event": "TP-002",
+  "events": {
+    "TP-001": "completed_before_campaign_start",
+    "TP-002": "pending",
+    "TP-003": "pending",
+    "TP-004": "pending",
+    "TP-005": "pending",
+    "TP-006": "pending",
+    "TP-007": "pending",
+    "TP-008": "pending",
+    "TP-009": "pending",
+    "TP-010": "pending",
+    "TP-011": "pending",
+    "TP-012": "pending",
+    "TP-013": "pending",
+    "TP-014": "pending",
+    "TP-015": "pending",
+    "TP-016": "pending",
+    "TP-017": "pending",
+    "TP-018": "pending",
+    "TP-019": "pending",
+    "TP-020": "pending",
+    "TP-021": "pending",
+    "TP-022": "pending"
+  },
+  "divergences": []
+}
