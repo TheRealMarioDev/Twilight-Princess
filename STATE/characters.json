@@ -1,0 +1,15 @@
+{
+  "characters": {},
+  "required_fields": [
+    "location",
+    "condition",
+    "current_goals",
+    "known_information",
+    "relationship_to_link",
+    "relationships",
+    "recent_significant_actions",
+    "important_memories",
+    "important_dialogue",
+    "canon_status"
+  ]
+}
