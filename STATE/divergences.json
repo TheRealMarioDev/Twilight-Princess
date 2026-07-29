@@ -1,0 +1,4 @@
+{
+  "divergences": [],
+  "rule": "Only create a divergence when Link's actual player-controlled actions change, prevent, reorder, or substantially alter a canon outcome. Record the canonical expected outcome, the player action causing divergence, actual outcome, affected future events, and consequences. Never silently restore canon after a genuine divergence."
+}
