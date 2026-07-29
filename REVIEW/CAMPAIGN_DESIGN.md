@@ -2,45 +2,61 @@
 
 This file exists so the campaign can be revised before play begins.
 
-## Decisions to review
+## Locked-in decisions
 
 ### 1. Canon fidelity
-- [ ] Strict canon chronology
-- [ ] Canon events as anchors with flexible scenes between them
-- [ ] Player choices can create major alternate outcomes
+- [x] **Strict chronology.** Twilight Princess's major events should occur in their established order.
+- [x] **Detailed canon reference.** We will expand the canon database enough to understand prerequisites, character locations, knowledge, motivations, and transitions between major events.
+- [x] **Flexible scenes between canon anchors.** Player-created scenes may happen around the canon timeline when physically and chronologically plausible.
+- [x] **Player choices can create divergences.** A divergence is allowed when Link's actions plausibly cause it; the campaign records the cause and consequences instead of pretending canon was unchanged.
+- [x] **Canon events are not automatically overridden by romance.** Ilia and the romance thread are integrated into the canon story rather than replacing the story's established events.
 
 ### 2. Link control
-- [ ] Player controls all spoken dialogue
-- [ ] Player controls important decisions
-- [ ] Game Master may describe routine actions only when clearly implied
-- [ ] Link's personality should emerge from player behavior rather than be imposed
+- [x] **Player has full control over Link.** The Game Master does not decide Link's dialogue, internal thoughts, emotions, choices, priorities, relationships, or consequential actions.
+- [x] The Game Master may describe the external results of Link's actions and handle trivial, unambiguous physical continuity.
+- [x] Link's personality develops from the player's behavior.
+- [x] Link's knowledge is tracked separately from the Game Master's canon knowledge.
 
-### 3. Time system
-- [ ] Explicit day/time tracking
-- [ ] NPC schedules
-- [ ] Travel time matters
-- [ ] Scenes can span minutes/hours naturally
+### 3. Ilia / romance
+- [x] **Ilia is Link's primary love interest.** This is a campaign-specific premise and is treated as a major emotional thread.
+- [x] Romance can be fruitful, funny, tender, awkward, painful, tragic, hopeful, and happy.
+- [x] Romance is not a predetermined success path. Its state emerges from Link's actions and Ilia's autonomous responses.
+- [x] Ilia has full character agency. She can disagree, reject, forgive, become hurt, make independent decisions, set boundaries, and change.
+- [x] Major romantic developments, confessions, promises, conflicts, gifts, private moments, and reconciliations are persistent memories.
+- [x] The romance may become one of Link's major motivations, but the player determines whether and how Link acts on that motivation.
 
-### 4. Memory persistence
-- [ ] Major events
-- [ ] Important dialogue
-- [ ] Promises
-- [ ] Secrets
-- [ ] Character knowledge
-- [ ] Relationship changes
-- [ ] Inventory and equipment
-- [ ] Player-created quests
-- [ ] Canon divergences
-- [ ] Recurring small details when they become relevant
+### 4. Time system
+- [x] Explicit day/time tracking.
+- [x] NPC schedules matter.
+- [x] Travel time matters where relevant.
+- [x] Scenes can naturally consume minutes or hours.
+- [x] Canon events act as chronological anchors rather than instant scene transitions.
 
-### 5. Relationship model
-Review whether relationships should use numerical values, descriptive states, or both. Current draft supports both structured state and narrative history.
+### 5. Memory persistence
+- [x] Major events
+- [x] Important dialogue
+- [x] Promises
+- [x] Secrets
+- [x] Character knowledge
+- [x] Relationship changes
+- [x] Inventory and equipment
+- [x] Player-created quests
+- [x] Canon divergences
+- [x] Recurring small details when they become relevant
 
-### 6. Canon divergence
-Decide how aggressively the campaign should allow the player to change canon. Recommended default: consequences are real, but canon remains the baseline until player actions make a divergence plausible.
+### 6. Relationship model
+Use **both structured state and narrative history**. Numeric values, if retained, are internal indicators rather than visible RPG meters. The actual story should communicate relationships through behavior, dialogue, memory, and consequences.
 
-### 7. Scene style
-Review desired balance between:
+### 7. Canon divergence
+The default is **strict canon with believable flexibility**:
+- Major canon events should happen in order.
+- Player-created scenes should fit between them.
+- If Link makes an action that could plausibly alter a canon event, the world may react and the divergence is recorded.
+- The Game Master must not force a canon outcome that Link's established actions have made impossible merely to preserve a script.
+- Conversely, the Game Master must not invent a divergence simply because it would be more dramatic.
+
+### 8. Scene style
+Still under review. We should decide the desired balance between:
 - dialogue
 - environmental description
 - NPC initiative
@@ -48,7 +64,7 @@ Review desired balance between:
 - action/combat
 - quiet character moments
 
-### 8. Campaign knowledge boundary
+### 9. Campaign knowledge boundary
 The Game Master knows the canon and hidden plot, but must not expose information to Link or NPCs without an in-world reason.
 
 ## Current opening
