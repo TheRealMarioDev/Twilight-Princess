@@ -2,10 +2,24 @@
 
 Optional content is part of the world rather than filler. It may be encountered when location, time, abilities, and story state make it plausible.
 
-## Combat / Hero's Shade
-- Hidden Skills are optional training opportunities.
+## Canon exception: Ending Blow
+
+**Ending Blow is mandatory campaign content.** It is the first Hidden Skill taught by the Hero's Shade and is treated as part of the main canon progression immediately before Link enters the Forest Temple.
+
+### Required sequence
+- Link has reached the Sacred Grove/Faron progression and is preparing to enter the Forest Temple.
+- The Hero's Shade encounter occurs at the appropriate point.
+- Link is taught **Ending Blow**.
+- The skill is recorded as permanently learned.
+- Only after this checkpoint does the campaign proceed into the Forest Temple chapter.
+
+### Narrative rule
+Ending Blow should feel like a natural part of Link's growth as a swordsman rather than an optional collectible. The remaining Hidden Skills remain optional unless another canon dependency is explicitly established.
+
+## Combat / Hero's Shade — remaining skills
+- Hidden Skills after Ending Blow are optional training opportunities.
 - Hero's Shade encounters can be remembered as meaningful training sessions.
-- The GM should not force every skill into the campaign if Link never encounters the teacher.
+- The GM should not force later skills if Link never encounters the teacher.
 - The Hero's Shade's identity/history should not be spoiled early.
 
 ## Collectibles
@@ -13,7 +27,7 @@ Track persistent collection progress when the player chooses to pursue it:
 - Heart Pieces / Heart Containers
 - Golden Bugs
 - Poe Souls
-- Hidden Skills
+- Hidden Skills other than Ending Blow
 - Howling Stones
 - Great Fairy rewards
 - Wallet upgrades
