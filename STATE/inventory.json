@@ -1,0 +1,12 @@
+{
+  "inventory": [],
+  "equipment": [],
+  "wallet": {},
+  "collectibles": {},
+  "keys": [],
+  "quest_items": [],
+  "major_progression_items": [],
+  "learned_skills": [],
+  "upgrades": [],
+  "rule": "Do not grant an item, skill, upgrade, or progression object unless obtained through established canon or an explicitly recorded player-created event."
+}
